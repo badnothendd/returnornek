@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int topla(int say1, int say2) {
+
+	return (say1+say2);
+}
+
+  int main() {
+  	
+  	int say1, say2;
+	 scanf("%d %d", &say1,&say2);
+	printf("%d", topla(say1,say2));  	
+  	
+	return 0;
+}
+
+
+//guzellllllllllll öğğreniyorsun delyy
